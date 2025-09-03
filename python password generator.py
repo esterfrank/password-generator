@@ -22,3 +22,4 @@ if __name__ == "__main__":
 
     senha = generate_password(length, use_digits, use_specials)
     print(f"\nSua senha gerada é: {senha}")
+
